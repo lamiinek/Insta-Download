@@ -1,0 +1,5 @@
+/home/lamine/CSharp/Instagram-Downloader/Instagram-Downloader/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/lamine/CSharp/Instagram-Downloader/Instagram-Downloader/bin/Debug/Instagram-Downloader.exe.mdb
+/home/lamine/CSharp/Instagram-Downloader/Instagram-Downloader/bin/Debug/Instagram-Downloader.exe
+/home/lamine/CSharp/Instagram-Downloader/Instagram-Downloader/obj/x86/Debug/Instagram-Downloader.exe
+/home/lamine/CSharp/Instagram-Downloader/Instagram-Downloader/obj/x86/Debug/Instagram-Downloader.exe.mdb
